@@ -1,0 +1,2 @@
+# solve-task
+Solve algorithm
